@@ -17,3 +17,5 @@ A random number generator with customizable options including range, repetition,
 ## Try it Out
 
 https://random.shangzhenyang.com/
+
+https://wulilao.rth1.app
